@@ -1,0 +1,88 @@
+.add-activity-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.add-activity-container label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.add-activity-container input {
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.add-activity-container button {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+}
+
+.add-activity-container .error-message {
+  color: red;
+}
+
+.homepage-container {
+  padding: 20px;
+}
+
+.homepage-title {
+  text-align: center;
+  color: #007BFF;
+}
+
+.homepage-content {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.homepage-link {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.homepage-link:hover {
+  text-decoration: underline;
+}
+
+.login-container {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+  margin: 0 auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.login-container label {
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.login-container input {
+  margin-top: 5px;
+  padding: 10px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.login-container button {
+  margin-top: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  background-color: #007BFF;
+  color: white;
+  border: none;
+}
